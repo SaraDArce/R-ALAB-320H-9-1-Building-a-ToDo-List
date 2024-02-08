@@ -1,0 +1,9 @@
+li {
+  padding: 2px;
+}
+
+span {
+  border: solid 1px red;
+  padding-left: 10px;
+  padding-right: 10px;
+}
